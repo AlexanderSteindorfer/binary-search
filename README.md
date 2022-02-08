@@ -1,5 +1,5 @@
 # Binary Search
-Searches a list/array faster than "naive search".
+Searches a list faster than "naive search".
 <br/><br/>
 
 ### Short explanation
